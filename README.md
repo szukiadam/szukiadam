@@ -6,8 +6,7 @@
 -  I’m currently learning as much as I can, but most importantly I'm trying to perform well at school while picking up as much knowledge as I can :sweat_smile:
 -  2021 Goals: TWIC(free weekly chess publication) summarizer, Chess style identifier
 -  What I'm doing in my spare time that's related to my field of study: Reading "Designing Data-Intensive Application", working through Stanford-CS329S.
--  Not related: Bulking during the pandemic (having some struggles), learning portuguese
-
+-  Not related: Bulking during the pandemic
 
 ### Languages and Tools:
 
