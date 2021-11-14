@@ -3,8 +3,8 @@
 ## I'm currently studying at Budapest University of Technology and Economics Faculty of Electrical Engineering and Informatics !
 
 -  I'm in my 7th semester (as of 2021 fall)!
--  I’m currently learning as much as I can, but most importantly I'm trying to perform well at school while picking up as much knowledge as I can :sweat_smile:
--  2021 Goals: TWIC(free weekly chess publication) summarizer, Chess style identifier
+-  I'm trying to perform well at school while picking up as much knowledge as I can :sweat_smile:
+-  2021 Goals: TWIC(free weekly chess publication) summarizer
 -  What I'm doing in my spare time that's related to my field of study: Reading "Designing Data-Intensive Application", working through Stanford-CS329S.
 -  Not related: Exploring Portugal 
 
