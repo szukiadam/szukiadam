@@ -1,18 +1,9 @@
-### Hello there, I'm Adam !
+### Hello there, I'm Adam ! :wave:
 
-## I'm currently studying at Budapest University of Technology and Economics Faculty of Electrical Engineering and Informatics !
+I'm a data enthusiast currently working as a data engineer.
 
--  I'm in my 7th semester (as of 2021 fall)!
--  I'm trying to perform well at school while picking up as much knowledge as I can :sweat_smile:
--  2021 Goals: TWIC(free weekly chess publication) summarizer
--  What I'm doing in my spare time that's related to my field of study: Reading "Designing Data-Intensive Application", working through Stanford-CS329S.
--  Not related: Exploring Portugal 
+Many of my pet projects here are connected to sports, most often chess specifically. Feel free to use them if you find them helpful! :blush:
 
-### Languages and Tools:
+![](https://komarev.com/ghpvc/?username=szukiadam&style=for-the-badge) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adamszukics/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@adamszukics)
 
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
